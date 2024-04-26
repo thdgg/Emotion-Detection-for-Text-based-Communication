@@ -1,6 +1,6 @@
 # Emotion-Detection-for-Text-based-Communication
 
-##Citation
+## Citation
 @inproceedings{saravia-etal-2018-carer,
     title = "{CARER}: Contextualized Affect Representations for Emotion Recognition",
     author = "Saravia, Elvis  and
